@@ -15,3 +15,7 @@ To execute the Python scripts, first the github projects mentioned in the file '
 </br> ➡️ Note that there is no need to wait for most of the operations to be done (like text pre-processing and aggregating the sentiment), or the tweets to be mined, since the relevant files are provided in the data folder. (Only the aggregated files are provided for privacy reasons) 
 </br>
 </br> 👥 In compliance with Twitter's terms of service and GDPR, the tweets are not shared. If you wish to recreate the environment of this project, please use the data sources mentioned in the Tweet_hydrator.ipynb notebook (feel free to check the repos out) in combination with the script to retrieve the tweet corpus that best suits your needs.
+</br>
+</br>
+</br>
+</br> 📧 For more information regarding the project feel free to contact me.
