@@ -1,0 +1,2 @@
+# Examining-the-relationship-of-UK-stock-exchange-and-public-sentiment-in-the-light-of-a-crisis
+This repository contains part of my code for my dissertation, presented for my postgraduate degree. For this project, I gathered both social media data related to the Covid-19 pandemic and financial data to examine the relationship of the UK stock exchange and the public sentiment in the light of a crisis. Data were pre-processed and converted to time-series. Python was used for sentiment analysis, Granger causality analysis, and predictive modelling.
